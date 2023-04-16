@@ -2,9 +2,13 @@
 <img align="right" height="300em" width="300em" alt="#"  src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="700" height="394" role="presentation"/>
 </div>
 
-</br>
+<div align="center"> 
+  <h1> Olá me chamo Ruhan, seja bem vindo! </h1>
+ </div> 
+ 
+ <br>
 
-<div align="center" style="display: inline_block"> <br>
+<div align="center"> <br>
   <a href="https://github.com/ColdTD">
     <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=ColdTD&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColdTD&layout=compact&langs_count=7&theme=radical"/>
