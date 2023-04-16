@@ -1,6 +1,7 @@
-<div align="center">
-<h2> Seja, bem vindo!</h2>
+<div align="center" >
+<img align="right" height="auto" width="300em" alt="#"  src="https://img1.picmix.com/output/stamp/normal/8/6/5/6/1756568_c4174.gif](https://external-preview.redd.it/Fstwa20tLzjOCokJezRISCwu4KGxsTFGpQrd_40miFA.gif?format=mp4&v=enabled&s=f2303aa1754bc7fc9a7db55d093b2c2a66c7f8cd)" width="700" height="394" role="presentation"/>
 </div>
+
 </br>
 
 <div align="center" style="display: inline_block"> <br>
