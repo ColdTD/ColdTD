@@ -3,7 +3,7 @@
 </div>
 </br>
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/ColdTD">
     <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=ColdTD&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColdTD&layout=compact&langs_count=7&theme=radical"/>
