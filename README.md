@@ -2,6 +2,7 @@
 <h2> Seja, bem vindo!</h2>
 </div>
 </br>
+<div style="display: inline_block"><br>
 <div align="center">
   <div align="center">
   <a href="https://github.com/ColdTD">
@@ -12,6 +13,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColdTD&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </div>
+  </div>
 </br>
  <div align="center">
 <div style="display: inline_block"><br>
