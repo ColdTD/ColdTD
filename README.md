@@ -3,7 +3,7 @@
 </div>
 
 <div align="center"> 
-  <h1> Olá me chamo Ruhan, seja bem vindo! </h1>
+  <h1>  Seja bem vindo! </h1>
 </div> 
  
  <br>
