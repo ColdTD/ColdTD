@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="700" height="394" alt="My awesome GIF" />  </div>
-
-<div align="center">
+  <div style="float: right;">
+    <img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="300" height="300" alt="My awesome GIF" />
+  </div>
   <h1> Seja bem vindo! </h1>
 </div>
  
